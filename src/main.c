@@ -21,18 +21,18 @@ qc_map_t qc_maps[] = {
                      "QC_Loading_Screen_Awoken-768x432.png/revision/"
                      "latest?cb=20221219140440",
     },
-    {
-        .name = "dm6",
-        .image_url = "https://static.wikia.nocookie.net/quake/images/4/45/"
-                     "QC_Loading_Screen_Blood_Covenant-768x432.png/revision/"
-                     "latest?cb=20221025185737",
-    },
-    {
-        .name = "ztn HAHAHA",
-        .image_url =
-            "https://static.wikia.nocookie.net/quake/images/a/ab/"
-            "Levelshot_blood_run_sm.jpg/revision/latest?cb=20221015225824",
-    },
+    // {
+    //     .name = "dm6",
+    //     .image_url = "https://static.wikia.nocookie.net/quake/images/4/45/"
+    //                  "QC_Loading_Screen_Blood_Covenant-768x432.png/revision/"
+    //                  "latest?cb=20221025185737",
+    // },
+    // {
+    //     .name = "ztn HAHAHA",
+    //     .image_url =
+    //         "https://static.wikia.nocookie.net/quake/images/a/ab/"
+    //         "Levelshot_blood_run_sm.jpg/revision/latest?cb=20221015225824",
+    // },
     {
         .name = "Corrupted Keep",
         .image_url = "https://static.wikia.nocookie.net/quake/images/0/00/"
