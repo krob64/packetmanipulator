@@ -184,7 +184,7 @@ void on_command_duel(struct discord* client,
         }
     }
 
-    int map_roll = random_number(0, sizeof(qc_maps) / sizeof(qc_maps[0]));
+    int map_roll = random_number(0, (sizeof(qc_maps) / sizeof(qc_maps[0]) - 1));
     log_info("map_roll %d", map_roll);
     qc_map_t* map = &qc_maps[map_roll];
 
